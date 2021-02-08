@@ -1,8 +1,8 @@
 # Vehicle Parking System Software
 
-Vehicle-Parking-System-Using-C-Language
--> Allows us to set up a flexible and trustworthy Vehicle Parking system
--> Keeps a record of every customer.
+Vehicle-Parking-System-Using-C-Language.<br>
+-> Allows us to set up a flexible and trustworthy Vehicle Parking system.<br>
+-> Keeps a record of every customer.<br>
 
 -----------------------------------------------------------
 Admin Panel Username & Password :-
@@ -13,10 +13,9 @@ Password: "12345"
 -
 ----------------------------------------------------------
 
-Recommended Compiler: Turbo C++
--
+Recommended Compiler: Turbo C++<br>
 Can be run on any C compiler
--
+
 
 
 Use of Functions which are present in code :-
