@@ -23,14 +23,12 @@ Use of Functions which are present in code :-
 -
 
 passwordMasking  :  Generic function to get passowrd from user and showing * except real characters. <br>
-userTable        :  Function to print Table ( userTable ) .
-car              :  Fuction for customer having Car .
-rickshaw         :  Function for customer having vehicle Rickshaw. 
-bus              :  Function for customer having vehicle Bus.
-billslip         :  Function to make a Bill.
-showDetails      :  Function to show all details. 
-repeat           :  Function which ask wheather you want to continue or not.
-
-
+userTable        :  Function to print Table ( userTable ) .<br>
+car              :  Fuction for customer having Car .<br>
+rickshaw         :  Function for customer having vehicle Rickshaw.<br> 
+bus              :  Function for customer having vehicle Bus.<br>
+billslip         :  Function to make a Bill.<br>
+showDetails      :  Function to show all details.<br> 
+repeat           :  Function which ask wheather you want to continue or not.<br><br>
 
 #mini project   #parking sytem   #Vehicle Parking Software   #c project
