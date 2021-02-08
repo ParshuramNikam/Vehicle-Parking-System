@@ -22,7 +22,7 @@ Can be run on any C compiler
 Use of Functions which are present in code :-
 -
 
-passwordMasking  :  Generic function to get passowrd from user and showing * except real characters. \n
+passwordMasking  :  Generic function to get passowrd from user and showing * except real characters. <br>
 userTable        :  Function to print Table ( userTable ) .
 car              :  Fuction for customer having Car .
 rickshaw         :  Function for customer having vehicle Rickshaw. 
